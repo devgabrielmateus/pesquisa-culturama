@@ -111,3 +111,10 @@ button[type="reset"]:hover {
     background-color: orangered;
     color: white;
 }
+
+.titulo-enviado-com-sucesso {
+    color: green;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 5%;
+}
